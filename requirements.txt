@@ -1,0 +1,18 @@
+Libraries Used:
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter
+
+
+Explanation:
+
+pandas → Data analysis
+numpy → Numerical calculations
+matplotlib → Charts and graphs
+seaborn → Advanced visualizations
+scipy → Hypothesis testing (ANOVA, T-test)
+jupyter → Notebook environment
